@@ -55,4 +55,4 @@ latexmk -shell-escape -8bit -xelatex oi-wiki-export.tex
 
 ## 注意
 
-在使用导出得到的 pdf 时，应当注意 OI-wiki 的 LICENSE。
+在使用导出得到的 pdf 时，应当注意 OI-wiki 文档的 LICENSE。
